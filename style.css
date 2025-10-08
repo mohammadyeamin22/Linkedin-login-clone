@@ -1,0 +1,71 @@
+*{
+  margin:0;
+  padding:0;
+ font-family: sans-serif;
+}
+/* Navbar css */
+nav{
+  display: flex;
+  margin-top: 25px;
+}
+/* Navbar img  */
+.navbar_img img{
+  width: 150px;
+  height: 100px;
+margin-top:-25px;
+}
+/* Navbar img  */
+/* Navar icon  */
+.navbar_icon{
+  margin-left: 120px;
+}
+.navbar_icon ul{
+  display: flex;
+  list-style: none;
+}
+.icon{
+  margin-left: 45px;
+  text-align: center;
+}
+.icon i{
+  margin-bottom:15px;
+  color:#666666;
+}
+.icon a{
+  text-decoration:none;
+  color: #666666;
+}
+.icon_2 a{
+   margin-left: 40px;
+   color:white;
+   text-decoration: none;
+   padding: 17px;
+   border-radius: 30px;
+   background:#0A66C2;
+   font-weight: bold;
+}
+/* Navar icon  */
+/* Navbar css */
+/* Professional css */
+.parental{
+  display: flex;
+  margin-top: 15px;
+}
+/* Professional text css */
+.content_1{
+  width: 40%;
+  margin: 70px;
+}
+.content_1 h1{
+  color:#666666;
+  font-size: 38px;
+  font-weight: 100;
+}
+/* Professional text css */
+/* Professional img css */
+.content_2 img{
+  width: 90%;
+  margin-left: 64px;
+}
+/* Professional img css */
+/* Professional css */
