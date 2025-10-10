@@ -69,3 +69,47 @@ margin-top:-25px;
 }
 /* Professional img css */
 /* Professional css */
+/* Espolre css */
+.explore{
+  display:flex;
+  margin-top: 100px;
+}
+/* Explore text css */
+.container_1{
+width: 51%;
+margin-top: 100px;
+margin-left: 30px;
+}
+.container_1 h2 {
+font-size: 35px;
+font-weight:40;
+margin-bottom: 13px;
+}
+.container_1 h3{
+  font-size:21px;
+  font-weight:20;
+}
+/* Explore text css */
+/* Link section css */
+.container_3{
+margin: 45px;
+}
+.container_3 a{
+  padding:15px;
+  border:1px solid black;
+  border-radius:20px;
+  text-decoration: none;
+  color:black;
+}
+.container_4{
+  margin: 45px;
+}
+.container_4 a{
+  text-decoration: none;
+color: #0A66C2;
+padding:15px;
+border: 1px solid #0A66C2;
+border-radius:20px;
+}
+/* Link section css */
+/* Espolre css */
