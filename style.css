@@ -193,3 +193,91 @@ font-weight:40;
   margin-top: 20px;
 }
 /* Games css */
+/* Work css */
+.work_parental{
+  display: flex;
+  margin-top:200px;
+}
+.work_container{
+   width: 52%;
+  margin-left: 25px;
+  margin-top: 150px;
+}
+.work_container h2{
+    font-size: 38px;
+  font-weight: 50;
+  color:#B84020;
+  margin-bottom: 10px;
+}
+.work_container h3{
+    font-size:21px;
+  font-weight:20;
+}
+/* Work css */
+/* Double css */
+.double{
+  display: flex;
+  margin-top: 300px;
+  margin-bottom: 300px;
+}
+/* Connect css */
+.connect_container{
+  display: grid;
+  text-align: center;
+  margin-left: 100px;
+}
+.connect_container img{
+width: 500px;
+height: 350px;
+margin-bottom: 30px;
+}
+.connect_container a{
+  text-decoration: none;
+  color: black;
+  font-size: large;
+}
+/* Connect css */
+/* Learn css */
+.learn_container{
+  display:grid;
+  text-align: center;
+    margin-left: 50px;
+}
+.learn_container img{
+  margin-bottom: 30px;
+}
+.learn_container a{
+  color: black;
+  text-decoration: none;
+  font-size: large;
+}
+/* Learn css */
+/* Double css */
+/* Join css */
+.join_parental{
+  margin-left: 70px;
+ margin-top: 100px;
+ margin-bottom: 100px;
+}
+.join_parental h1{
+  font-size: 40px;
+  font-weight: 100;
+  margin-bottom: 50px;
+}
+.join_parental a{
+   color:white;
+   text-decoration: none;
+   padding: 17px;
+   border-radius: 30px;
+   background:#0A66C2;
+   font-weight: bold;
+}
+/* Join css */
+/* Footer css */
+.footer_parental{
+  margin-top: 50px;
+}
+.footer_parental img{
+  width: 100%;
+}
+/* Footer css */
