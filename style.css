@@ -44,7 +44,6 @@ margin-top:-25px;
    padding: 17px;
    border-radius: 30px;
    font-weight: bold;
-  
 }
 .icon_3 a{
    margin-left: 40px;
@@ -54,6 +53,9 @@ margin-top:-25px;
    border-radius: 30px;
    background:#0A66C2;
    font-weight: bold;
+}
+.icon_3 a:hover{
+  background-color:#004182;
 }
 /* Navar icon  */
 /* Navbar css */
@@ -68,8 +70,8 @@ margin-top:-25px;
   margin: 70px;
 }
 .content_1 h1{
-  color:#666666;
-  font-size: 38px;
+  color:black;
+  font-size:44px;
   font-weight: 100;
 }
 /* Professional text css */
@@ -102,6 +104,9 @@ margin-bottom: 13px;
 }
 /* Explore text css */
 /* Link section css */
+.container_5{
+  margin-left: 150px;
+}
 .container_3{
 margin: 45px;
 }
@@ -134,7 +139,7 @@ width: 53%;
 }
 .jobcontainer_1{
   width:50%;
-  margin-left: 80px;
+  margin-left: 50px;
   margin-top:40px;
 }
 .jobcontainer_1 h2{
@@ -167,8 +172,8 @@ margin-top: 100px;
   margin-top:140px;
 }
 .software_container{
-  width: 50%;
-    margin-left: 30px;
+  width:49%;
+margin-left: 45px;
   margin-top:40px;
 }
 .software_container h2{
@@ -187,7 +192,7 @@ margin-bottom: 13px;
   margin-top: 70px;
 }
 .game_parental{
- width: 52%;
+ width:53%;
 }
 .game_container{
    width: 55%;
@@ -242,10 +247,20 @@ width: 500px;
 height: 350px;
 margin-bottom: 30px;
 }
-.connect_container a{
+.connect_container h2{
+  font-size:35px;
+  font-weight:20;
+  color:#191919;
+}
+.connect_container button{
   text-decoration: none;
   color: black;
   font-size: large;
+  text-align:left;
+  border:1px solid black;
+  padding:20px;
+border-radius:30px;
+margin-top: 30px;
 }
 /* Connect css */
 /* Learn css */
@@ -260,7 +275,7 @@ margin-bottom: 30px;
 .learn_container a{
   color: black;
   text-decoration: none;
-  font-size: large;
+  font-size:23px;
 }
 /* Learn css */
 /* Double css */
@@ -271,17 +286,20 @@ margin-bottom: 30px;
  margin-bottom: 100px;
 }
 .join_parental h1{
-  font-size: 40px;
+  font-size: 47px;
   font-weight: 100;
   margin-bottom: 50px;
 }
 .join_parental a{
    color:white;
    text-decoration: none;
-   padding: 17px;
+   padding: 20px;
    border-radius: 30px;
    background:#0A66C2;
    font-weight: bold;
+}
+.join_parental a:hover{
+  background-color:#004182;
 }
 /* Join css */
 /* Img css */
